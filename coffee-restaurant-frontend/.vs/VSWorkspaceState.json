@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\commponents",
+    "\\src\\commponents\\AdminPanel",
+    "\\src\\commponents\\AdminPanel\\SpecialOffer",
+    "\\src\\commponents\\AdminPanel\\Team",
+    "\\src\\commponents\\BookTable",
+    "\\src\\commponents\\LandingPage",
+    "\\src\\commponents\\MenuPage",
+    "\\src\\commponents\\TeamMembers"
+  ],
+  "SelectedNode": "\\src\\commponents\\Events\\eventsCard.js",
+  "PreviewInSolutionExplorer": false
+}
